@@ -1,0 +1,9 @@
+14. Neural Networks - RNN (LSTM)
+
+This repository dives into the basics of a Recurrent Neural Netowrk.
+
+It contains an example of a RNN network using Keras API to predict:
+(i). A single character following a series of characters, 
+(ii). A word following a series of words(sentence).
+
+Also it contains the usage of LSTM networks.
